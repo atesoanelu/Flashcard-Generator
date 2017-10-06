@@ -1,0 +1,34 @@
+{
+    "flashcards": [
+        {
+            "front": "Who was the first president?",
+            "back": "George Washington",
+            "cloze": false
+        },
+         {
+      "front": "In which year was the Declaration of Independence signed?",
+      "back": "1776",
+      "cloze": false
+    },
+    {
+      "front": "Thomas Jefferson wrote the Declaration of Independence.",
+      "back": "Thomas Jefferson",
+      "cloze": true
+    },
+    {
+      "front": "Andrew Johnson was president when the 13th Ammendment was ratified by the states.",
+      "back": "Andrew Johnson",
+      "cloze": true
+    },
+    {
+      "front": "Who wrote the lyrics to the Star Spangled Banner?",
+      "back": "Francis Scott Key",
+      "cloze": false
+    },
+    {
+      "front": "The sinking of the Lusitania led to the United State's involvement in WWI.",
+      "back": "Lusitania",
+      "cloze": true
+    }
+    ]
+}

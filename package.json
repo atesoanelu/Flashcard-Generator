@@ -1,0 +1,23 @@
+{
+    "name": "Flashcard-generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/atesoanelu/Flashcard-Generator.git"
+    },
+    "author": "Ateso Anelu",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/atesoanelu/Flashcard-Generator/issues"
+    },
+    "homepage": "https://github.com/atesoanelu/Flashcard-Generator#readme",
+    "dependencies": {
+        "inquirer": "^3.0.4",
+        "jsonfile": "^2.4.0"
+    }
+}
